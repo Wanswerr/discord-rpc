@@ -89,3 +89,8 @@ Tecnologia usada: Python + pypresence + customtkinter
 - O RPC **não funciona em dispositivos móveis**.
 - Certifique-se de que o Discord está **aberto e logado**.
 - Os nomes dos humores devem corresponder exatamente às imagens cadastradas no Developer Portal.
+
+## 🆘 Precisa de ajuda?
+
+- Caso não esteja conseguindo utilizar, me envie uma mensagem no Discord, irei te auxiliar da melhor forma possível!
+- Discord: Gabryeh
